@@ -2,6 +2,11 @@
 
 A tiny to-do list REST API in Python and Flask. It is the running example for the **DevOps track on [agentlabs learn](https://learning.myagentlabs.ai)**: every course adds one layer to this same project, from running it on your laptop to Git, Docker, Compose, CI, nginx, the cloud and Kubernetes.
 
+## Get the code
+
+    git clone https://github.com/agl-learn-examples/devops-tasks-api.git tasks-api
+    cd tasks-api
+
 ## Run it
 
     python3 -m venv .venv
