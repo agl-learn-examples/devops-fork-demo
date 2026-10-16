@@ -35,4 +35,6 @@ Stop the server with Ctrl+C.
 
     pytest
 
+Run the tests inside the virtual environment, after `pip install`.
+
 Tasks are stored in `tasks.db` (SQLite) next to `app.py`.
