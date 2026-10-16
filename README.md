@@ -18,6 +18,8 @@ Then, in a second terminal:
 
     curl localhost:5000/health
 
+Stop the server with Ctrl+C.
+
 ## Endpoints
 
 | method | path | does |
